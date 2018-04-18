@@ -23,7 +23,7 @@ public class Code4Life {
 	}
 	//3.  If it is greater than or equal to 3 AND less than or equal to 5, tell them they're a Code Ninja
 	if (hours>2) {
-		JOptionPane.showMessageDialog(null, "Your a code ninja");
+		JOptionPane.showMessageDialog(null, "You're a very handsome indivigual, nathan :)))");
 	}
 	//4.  If it is more than 5, call the method below to play the Batman theme song.  
 	 if (hours<5) {
