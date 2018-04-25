@@ -10,13 +10,15 @@ public class GoofyNames {
 		String goofyName = "";
 
 		// 1. Ask the user to enter their name
-
+		String Keller = JOptionPane.showInputDialog("Your name please?");
 		// 2. Print upper case name to the console using .toUpperCase()
 		//    Run your program to see that this works.
 
 		// 3. Loop through each character of the name (steps 4 - 6).
 		//    HINT: Use .length() to determine the number of characters in the String.
-
+for (int i = 0; i < args.length; i++) {
+	
+}
 			// 4. Create a String variable to store the next character of the name
 			//    using .substring(start, end)
 			//    HINT: replace 'start' and 'end' to get String with character at i 
